@@ -1,0 +1,7 @@
+{
+  "name": "Knowledge Life Core v4",
+  "description": "نظام المحرك السيبراني المركزي لتخليد المعرفة وتوليد الوعي الاصطناعي المستقل.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
